@@ -15,7 +15,7 @@ To contribute, start by forking this repository. Click the "Fork" button at the 
 Clone your forked repository to your local machine. Replace `<username>` with your GitHub username.
 
 ```bash
-git clone https://github.com/<username>/Digiconvert-Calculator.git
+git clone https://github.com/<username>/No-Manager-Bank.git
 ```
 
 Now, you are ready to make your contributions.
